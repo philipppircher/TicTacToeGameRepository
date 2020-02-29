@@ -78,7 +78,6 @@ public class TicTacToeGame {
         final char SIGNCOMPUTER = 'O';
         final String NAMECOMPUTER = "Computer";
         computerPlaceRandomSign(SIGNCOMPUTER, NAMECOMPUTER);
-        //checkOneComputerSignInLine(SIGNCOMPUTER, NAMECOMPUTER);
     }
 
     private static void computerPlaceRandomSign(char sign, String name){
